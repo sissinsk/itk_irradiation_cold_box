@@ -1,6 +1,7 @@
 //Command Set source: https://learn.sparkfun.com/tutorials/pic-based-serial-enabled-character-lcd-hookup-guide
 
 #include "PICSparkFunLCDSerial.h"
+#include "Arduino.h"
 
 PICSparkFunLCDSerial::PICSparkFunLCDSerial() { }
 
